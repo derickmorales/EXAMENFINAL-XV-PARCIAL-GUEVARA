@@ -1,0 +1,9 @@
+C:\Users\Lima\Desktop\CalculadoraFR-Guevara\CalculadoraFR\CalculadoraFR\bin\Debug\CalculadoraFR.exe.config
+C:\Users\Lima\Desktop\CalculadoraFR-Guevara\CalculadoraFR\CalculadoraFR\bin\Debug\CalculadoraFR.exe
+C:\Users\Lima\Desktop\CalculadoraFR-Guevara\CalculadoraFR\CalculadoraFR\bin\Debug\CalculadoraFR.pdb
+C:\Users\Lima\Desktop\CalculadoraFR-Guevara\CalculadoraFR\CalculadoraFR\obj\Debug\CalculadoraFR.csprojResolveAssemblyReference.cache
+C:\Users\Lima\Desktop\CalculadoraFR-Guevara\CalculadoraFR\CalculadoraFR\obj\Debug\CalculadoraFR.Form1.resources
+C:\Users\Lima\Desktop\CalculadoraFR-Guevara\CalculadoraFR\CalculadoraFR\obj\Debug\CalculadoraFR.Properties.Resources.resources
+C:\Users\Lima\Desktop\CalculadoraFR-Guevara\CalculadoraFR\CalculadoraFR\obj\Debug\CalculadoraFR.csproj.GenerateResource.Cache
+C:\Users\Lima\Desktop\CalculadoraFR-Guevara\CalculadoraFR\CalculadoraFR\obj\Debug\CalculadoraFR.exe
+C:\Users\Lima\Desktop\CalculadoraFR-Guevara\CalculadoraFR\CalculadoraFR\obj\Debug\CalculadoraFR.pdb
